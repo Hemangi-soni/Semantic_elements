@@ -1,0 +1,124 @@
+#head1 {
+    font-family: "Arial Black";
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#head2 {
+    color: chocolate;
+    font-family: 'Cascadia Code ExtraLight';
+    font-size: 20px;
+    margin-top: 0%;
+}
+
+body {
+    background-color: #e4d1d1;
+}
+
+img {
+    width: 230px;
+    height: 90px;
+    margin-bottom: 0%;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+}
+
+nav {
+    color: black;
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+    float: left;
+    padding-left: 120px;
+}
+
+li a {
+    display: block;
+    color: antiquewhite;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 16px;
+}
+
+.img2 {
+    width: 700px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    float: left;
+    width: 60%;
+    margin-top: 0%;
+}
+
+#head3 {
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+
+.aside1 {
+    background-color: #d4d4d4;
+    border-width: 2px;
+    border-style: solid;
+    border-color: deeppink;
+    width: 450px;
+    height: 200px;
+}
+
+.aside2 {
+    background-color: #d4d4d4;
+    border-width: 2px;
+    border-style: solid;
+    border-color: deeppink;
+    width: 450px;
+    height: 190px;
+}
+
+#head4 {
+    color: font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#head5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span {
+    position: relative;
+    left: -110px;
+}
+
+.div1 {
+    float: right;
+    position: relative;
+    margin-top: 25px;
+    padding: 0px;
+}
+
+.div2 {
+    float: right;
+    position: relative;
+    margin-top: 30px;
+    padding: 0px;
+}
+
+li a:hover {
+    background-color: powderblue;
+    color: black;
+}
